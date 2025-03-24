@@ -62,10 +62,10 @@ Tarhal is a smart Telegram bot that helps users find the cheapest flights betwee
 
 ---
 
-## **🇸🇦 الوثائق العربية**  
+## **تفاصيل المشروع بالعربي**  
 
 ### **📌 وصف المشروع**  
-"طَرهَل" بوت تلغرام ذكي للبحث عن أرخص تذاكر الطيران بين المدن. يدعم اللغتين العربية والإنجليزية، ويفهم أسماء المدن أو رموز المطارات، ويقدم تفاصيل الرحلة بما في ذلك الترانزيت.  
+"ترحال" بوت تلغرام ذكي للبحث عن أرخص تذاكر الطيران بين المدن. يدعم اللغتين العربية والإنجليزية، ويفهم أسماء المدن أو رموز المطارات، ويقدم تفاصيل الرحلة بما في ذلك الترانزيت.  
 
 ### **✨ المميزات**  
 - دعم ثنائي اللغة: واجهة كاملة بالعربية والإنجليزية  
@@ -89,8 +89,8 @@ Tarhal is a smart Telegram bot that helps users find the cheapest flights betwee
 
 3. أنشئ ملف `.env`:  
    ```env
-   TELEGRAM_BOT_TOKEN=توكن_بوتك
-   KIWI_API_KEY=مفتاح_كيوي_API
+   TELEGRAM_BOT_TOKEN=TELEGRAM_BOT_TOKEN
+   KIWI_API_KEY=KIWI_API_KEY 
    ```
 
 4. تشغيل البوت:  
@@ -126,9 +126,7 @@ MIT License - Free for personal and commercial use
 
 ## **📬 Contact**  
 For support/questions:  
-📧 Email: your-email@example.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-
+📧 Email: aligassan93@gmail.com
 ---
 
 **🚀 Ready to deploy?** Follow the installation guide and start helping users find cheap flights today!  
