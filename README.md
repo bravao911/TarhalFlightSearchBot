@@ -131,7 +131,7 @@ For support/questions:
 
 
 [![Deploy](https://img.shields.io/badge/Deploy_to-Vercel-blue?style=for-the-badge)](https://vercel.com/new)  
-[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-Live-green?style=for-the-badge)](https://t.me/YourBotName)  
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-Live-green?style=for-the-badge)](https://t.me/tarhal_travelbot)  
 
 ---
 
