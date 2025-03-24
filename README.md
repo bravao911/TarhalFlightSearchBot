@@ -1,5 +1,3 @@
-Here's a comprehensive **README.md** file in both English and Arabic for your GitHub repository:
-
 # **Tarhal Flight Search Bot - Cheap Flights Finder** ✈️  
 **Telegram bot for finding cheap flights with Arabic/English support**  
 
