@@ -129,9 +129,6 @@ For support/questions:
 📧 Email: aligassan93@gmail.com
 ---
 
-**🚀 Ready to deploy?** Follow the installation guide and start helping users find cheap flights today!  
-
-**🚀 جاهز للنشر؟** اتبع دليل التثبيت وابدأ مساعدة المستخدمين في إيجاد تذاكر طيران رخيصة اليوم!  
 
 [![Deploy](https://img.shields.io/badge/Deploy_to-Vercel-blue?style=for-the-badge)](https://vercel.com/new)  
 [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-Live-green?style=for-the-badge)](https://t.me/YourBotName)  
