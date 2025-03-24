@@ -129,7 +129,7 @@ For support/questions:
 📧 Email: your-email@example.com  
 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 
- ---
+---
 
 **🚀 Ready to deploy?** Follow the installation guide and start helping users find cheap flights today!  
 
